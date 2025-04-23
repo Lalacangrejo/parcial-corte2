@@ -12,7 +12,7 @@
 
 <script>
 export default {
-  name: "DateTimePicker",
+  name: "SeleccionFecha",
   data() {
     return {
       selectedDateTime: "",
